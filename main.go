@@ -36,8 +36,7 @@ func sendRequests(user string) {
 		log.Println("current index in userList", i)
 		log.Println("current reqTimeout", reqTimeout)
 		for {
-			log.Println("sending request git remote add origin https://github.com/aubble/goReferrer.git
-			git push -u origin masterfor", user)
+			log.Println("sending request for", user)
 			c, err := tls.Dial("tcp", "invites.oneplus.net:443", nil)
 			if err != nil {
 				log.Println(err)
