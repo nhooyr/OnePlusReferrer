@@ -1,4 +1,7 @@
 # goReferrer
+
+for <a src="https://oneplus.net/invites"></a>
+
 creates a list of emails based on one email, just seperated by dots then sends out confirmation emails for each but they all go to the same email (it works like this on gmail, any dots in the user part of the email eg hel.lo@gmail.com is equal to hello@gmail.com, it puts a period every 2 characters because when it was one they started blocking it iirc).
 
 second goroutine listens on the inbox for emails and extracts the confirmation link and spoofs it. Then it deletes that email. 
