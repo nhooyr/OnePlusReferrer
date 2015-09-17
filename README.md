@@ -13,3 +13,6 @@ When it gets blocked from anything it just increases the timeout between every r
 Well it was tons of fun and it only ran for a few hours and I got a really high spot so I'm happy :) Figured id open source it for anyone else doing this sort of stuff in the future in golang! 
 
 <img src="https://www.imageupload.co.uk/images/2015/08/10/ScreenShot2015-08-10at1.06.26PM.png" border="0">
+
+###SUCCESS - UPDATE
+<img src="http://bit.ly/1F4fPO5" border="0">
