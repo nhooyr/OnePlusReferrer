@@ -1,4 +1,4 @@
-# goReferrer
+# OnePlusReferrer
 
 for [oneplus invitation list](https://oneplus.net/invites)
 
